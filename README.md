@@ -1,14 +1,15 @@
 # Yahoo-MCP
+Yahoo MCP is an MCP server that provides various tools, including retrieving stock prices, viewing stock details, listing available stocks, and more.
 
-
-
+### Prerequisite
+Make sure you have local LLM or Ollama running
 
 ### Installation
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/yahoo-mcp/Yahoo-MCP.git
+git clone https://github.com/spjoshis/yahoo-mcp.git
 cd Yahoo-MCP
 ```
 
