@@ -1,0 +1,13 @@
+[project]
+name = "YahooMCPExample"
+version = "1.0.0"
+description = "An example project demonstrating the use of Yahoo MCP with various Python dependencies."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "chromadb>=1.0.4",
+    "colorama>=0.4.6",
+    "mcp[cli]>=1.6.0",
+    "smolagents[litellm,mcp]>=1.13.0",
+    "yfinance>=0.2.55",
+]
