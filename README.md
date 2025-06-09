@@ -1,6 +1,6 @@
 # Yahoo-MCP
 
-Yahoo-MCP 
+
 
 
 ### Installation
@@ -12,7 +12,7 @@ git clone https://github.com/yahoo-mcp/Yahoo-MCP.git
 cd Yahoo-MCP
 ```
 
-Setup:
+### Setup
 
 ```bash
 # Create a virtual environment 
