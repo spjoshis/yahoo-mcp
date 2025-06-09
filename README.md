@@ -24,6 +24,6 @@ uv venv
 # Install the dependencies
 uv sync
 
-# Run the agent 
-uv run agent.py
+# Run the request 
+uv run request.py
 ```
